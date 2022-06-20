@@ -6,4 +6,13 @@
    <url>
     <loc>https://pathfactory-tracking-test.com/blog/webinar-landing-pages-makeover/</loc>
   </url>
+  <url>
+    <loc>https://pathfactory-tracking-test.com/blog/webinar-landing-pages?x=1234</loc>
+  </url>
+  <url>
+    <loc>https://pathfactory-tracking-test.com/blog/webinar-pages?lx=234</loc>
+  </url>
+  <url>
+    <loc>https://pathfactory-tracking-test.com/blog/webinar?a=333</loc>
+  </url>
 </urlset>
